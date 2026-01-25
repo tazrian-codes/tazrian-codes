@@ -1,6 +1,6 @@
 ![Frontend Developer](https://scontent.fjsr6-1.fna.fbcdn.net/v/t39.30808-6/619301756_122103543381225649_3520360663046454231_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=109&ccb=1-7&_nc_sid=cc71e4&_nc_ohc=lJqrtZhG76oQ7kNvwG7w0d5&_nc_oc=AdlGH9ui5yMymQmrreO4a5Rmg0gTXDrnoUViR4UXByGv0cL0oCMtSHGDxLsiC5hkGvc&_nc_zt=23&_nc_ht=scontent.fjsr6-1.fna&_nc_gid=i1nFENF18Yf1o7jS2SxcvQ&oh=00_Afpfc2kT7IC8exOgRpFoebnHTSnE3W-Vzn4FbXUDlhF4qg&oe=697BD358)
 
-### Hi there 👋, Hey, It's Tazrian Here
+### Hey, It's Tazrian Here 👋,
 #### Frontend Developer
 
 I am a web developer who believes faith and work should align. My Islamic values shape how I approach technology. I aim to create clean, useful, and responsible digital solutions. I consciously avoid unethical or harmful projects. My goal is to build technology that benefits people.<br><br>
