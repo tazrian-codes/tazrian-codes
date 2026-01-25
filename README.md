@@ -1,4 +1,4 @@
-![Frontend Developer](https://scontent.fjsr6-1.fna.fbcdn.net/v/t39.30808-6/617437235_122103361797225649_6579498077471507521_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=100&ccb=1-7&_nc_sid=cc71e4&_nc_ohc=yfsOzMmecd4Q7kNvwG_vA-K&_nc_oc=Adk8-w-JDaNJQ-gDX7W5eCjhU2jSPokdgd8rP9U1HRB6gACYc64opXypJ1_hPtlgrS0&_nc_zt=23&_nc_ht=scontent.fjsr6-1.fna&_nc_gid=OVzlJZWvuAEwz-L0rGXIfQ&oh=00_Afr9bZSlCMxYIhbJ-V3XgV1gUZfcL8WfZqX_gyQ8mgUxQg&oe=697B7567)
+![Frontend Developer](https://scontent.fjsr6-1.fna.fbcdn.net/v/t39.30808-6/617437235_122103543375225649_6579498077471507521_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=100&ccb=1-7&_nc_sid=cc71e4&_nc_ohc=yfsOzMmecd4Q7kNvwG_vA-K&_nc_oc=Adk8-w-JDaNJQ-gDX7W5eCjhU2jSPokdgd8rP9U1HRB6gACYc64opXypJ1_hPtlgrS0&_nc_zt=23&_nc_ht=scontent.fjsr6-1.fna&_nc_gid=OVzlJZWvuAEwz-L0rGXIfQ&oh=00_Afr9bZSlCMxYIhbJ-V3XgV1gUZfcL8WfZqX_gyQ8mgUxQg&oe=697B7567)
 
 ### Hi there 👋, Hey, It's Tazrian Here
 #### Frontend Developer
