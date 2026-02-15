@@ -20,7 +20,7 @@ I am a web developer who believes faith and work should align. My Islamic values
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tazrianislam06@gmail.com) <br><br>
 
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tazrian-codes&layout=compact&theme=tokyonight) <br><br>
+![Tazrian's GitHub Stats](https://github-readme-stats.vercel.app/api?username=tazrian-codes&show_icons=true&count_private=true&theme=tokyonight)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=tazrian-codes&show_icons=true)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tazrian-codes&layout=compact&theme=tokyonight&hide=html) 
 
